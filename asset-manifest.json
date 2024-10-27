@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b28447da.css",
+    "main.js": "/portfolio/static/js/main.6c85cbc5.js",
+    "static/media/projectFour.png": "/portfolio/static/media/projectFour.84f8768330063a5f727f.png",
+    "static/media/projectFive.jpg": "/portfolio/static/media/projectFive.4474402841b9c6a57253.jpg",
+    "static/media/bannerImg.png": "/portfolio/static/media/bannerImg.93727128bcfc2c842e30.png",
+    "static/media/nf1.png": "/portfolio/static/media/nf1.deb198508760e8b5cd6c.png",
+    "static/media/nf3.png": "/portfolio/static/media/nf3.4b8e27d9f3eb96acdab4.png",
+    "static/media/nf2.png": "/portfolio/static/media/nf2.8d7366e6465bb07bb254.png",
+    "static/media/gg2.png": "/portfolio/static/media/gg2.da1253e4ded3dbb589ac.png",
+    "static/media/gg1.png": "/portfolio/static/media/gg1.15c5ba45283795a1f6df.png",
+    "static/media/gg3.png": "/portfolio/static/media/gg3.fcf4df7cb0289e6c39d6.png",
+    "static/media/lt1.png": "/portfolio/static/media/lt1.6b86a4be0dd8c2872946.png",
+    "static/media/2.png": "/portfolio/static/media/2.6103be35fef6b59f9fe0.png",
+    "static/media/projectThree.png": "/portfolio/static/media/projectThree.650fe158cae8923ef503.png",
+    "static/media/lt3.png": "/portfolio/static/media/lt3.075bebdc147ffdc6b9d0.png",
+    "static/media/projectSix.jpg": "/portfolio/static/media/projectSix.e56902fdeae39f986134.jpg",
+    "static/media/lt2.png": "/portfolio/static/media/lt2.54cf9a1fff7232045065.png",
+    "static/media/projectTwo.jpg": "/portfolio/static/media/projectTwo.a75e3ac923616aa378e3.jpg",
+    "static/media/download (5).png": "/portfolio/static/media/download (5).fae5a4b5e9ebf0a5d28d.png",
+    "static/media/download (4).png": "/portfolio/static/media/download (4).21799390be4a2ea9ee16.png",
+    "static/media/download (3).png": "/portfolio/static/media/download (3).8fd9047a7f4d0edd2102.png",
+    "static/media/3.png": "/portfolio/static/media/3.bb3c8b92ff5a019c2f3d.png",
+    "static/media/contactImg.png": "/portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/projectOne.png": "/portfolio/static/media/projectOne.608b00849975a402a2cc.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.e435c0938aa32934e050.png",
+    "static/media/1.png": "/portfolio/static/media/1.f7662040505bbd208ef6.png",
+    "index.html": "/portfolio/index.html",
+    "main.b28447da.css.map": "/portfolio/static/css/main.b28447da.css.map",
+    "main.6c85cbc5.js.map": "/portfolio/static/js/main.6c85cbc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b28447da.css",
+    "static/js/main.6c85cbc5.js"
+  ]
+}
